@@ -9,6 +9,8 @@ namespace ProjetoHelloWorld
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Boa tarde");
+
+            Console.WriteLine("Como você está?");
         }
     }
 }
